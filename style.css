@@ -1,0 +1,30 @@
+body {
+    background-image: url(AAC-HAMR-Studio-Rev-2.32.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first {
+    border: 2px solid white;
+    color: #000;
+    border: none;
+    color: white;
+    top: 10px;
+
+}
+
+.text {
+    font-style: italic;
+    text-align: center;
+
+}
+
+.second {
+    border: 2px solid black;
+    position: relative;
+    top: 200px;
+    border: NONE;
+
+
+
+}
